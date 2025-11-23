@@ -1,2 +1,14 @@
-# notes-linear-algebra
-Linear Algebra notes for machine learning and deep learning foundations.
+# Linear Algebra Notes
+线性代数是机器学习和深度学习的核心基础。本仓库存放相关笔记与推导过程。
+
+## 内容大纲
+- 向量与矩阵
+- 矩阵运算（加减乘转置）
+- 行列式
+- 线性变换
+- 特征值与特征向量
+- 奇异值分解（SVD）
+
+## Future Work
+- 用 Python 实现线性代数运算
+- 将概念与机器学习算法联系（如 PCA）
